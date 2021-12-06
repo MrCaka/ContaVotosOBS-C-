@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638821677 source:c:\users\cpd-pc\desktop\contador de votos\contador de votos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+
